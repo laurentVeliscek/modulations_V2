@@ -1,0 +1,3752 @@
+[
+    {
+        "id": 1,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 7,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: C = I in C, IV in G (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in G major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in G major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 7,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: C = I in C, IV in G (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii in G major (predominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in G major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in G major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 7,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 3,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Em = iii in C, vi in G (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in G major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in G major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 7,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 3,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Em = iii in C, vi in G (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii in G major (predominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in G major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in G major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 7,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: G = V in C, I in G (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in G major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in G major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 7,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: G = V in C, I in G (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii in G major (predominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in G major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in G major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 7,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Am = vi in C, ii in G (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in G major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in G major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 7,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Am = vi in C, ii in G (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii in G major (predominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in G major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 7,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in G major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 5,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: F = IV in C, I in F (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in F major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in F major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 5,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: F = IV in C, I in F (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii in F major (predominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in F major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in F major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 5,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: C = I in C, V in F (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in F major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in F major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 5,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: C = I in C, V in F (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii in F major (predominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in F major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in F major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 5,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Dm = ii in C, vi in F (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in F major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in F major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 5,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Dm = ii in C, vi in F (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii in F major (predominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in F major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in F major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 5,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Am = vi in C, iii in F (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in F major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in F major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "pop"
+        ],
+        "from_mode": "major",
+        "to_root": 5,
+        "to_mode": "major",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Am = vi in C, iii in F (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii in F major (predominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in F major (dominant in new key)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 5,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in F major (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: C = I in C, III in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: C = I in C, III in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in A minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Dm = ii in C, iv in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Dm = ii in C, iv in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in A minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 3,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Em = iii in C, v in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 3,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Em = iii in C, v in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in A minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: F = IV in C, VI in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: F = IV in C, VI in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in A minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: G = V in C, VII in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: G = V in C, VII in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in A minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Am = vi in C, i in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Am = vi in C, i in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in A minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 7,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Bdim = vii° in C, ii° in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 9,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 7,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Bdim = vii° in C, ii° in A minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in A minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in A minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 9,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in A minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 4,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 3,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Em = iii in C, i in E minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in E minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in E minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 4,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 3,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Em = iii in C, i in E minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in E minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in E minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in E minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 4,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: C = I in C, VI in E minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in E minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in E minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 4,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: C = I in C, VI in E minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in E minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in E minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in E minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 4,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: G = V in C, III in E minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in E minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in E minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 4,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: G = V in C, III in E minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in E minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in E minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in E minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 4,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Am = vi in C, iv in E minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in E minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in E minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 4,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Am = vi in C, iv in E minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in E minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in E minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 4,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in E minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 2,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Dm = ii in C, i in D minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in D minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in D minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 2,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Dm = ii in C, i in D minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in D minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in D minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in D minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 2,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: F = IV in C, III in D minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in D minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in D minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 2,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: F = IV in C, III in D minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in D minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in D minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in D minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 2,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Am = vi in C, v in D minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in D minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in D minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 2,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Am = vi in C, v in D minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in D minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in D minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in D minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 2,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: C = I in C, VII in D minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in D minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in D minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 2,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: C = I in C, VII in D minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in D minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in D minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 2,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in D minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Cm = i in C minor (borrowed from parallel) (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Cm = i in C minor (borrowed from parallel) (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in C minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Ddim = ii° in C minor (borrowed) (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Ddim = ii° in C minor (borrowed) (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in C minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 3,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Eb = ♭III in C major (parallel), III in C minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 3,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Eb = ♭III in C major (parallel), III in C minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in C minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Fm = iv in C minor (borrowed) (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Fm = iv in C minor (borrowed) (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in C minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Gm = v in C minor (borrowed) (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Gm = v in C minor (borrowed) (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in C minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Ab = ♭VI in C major (borrowed), VI in C minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 6,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Ab = ♭VI in C major (borrowed), VI in C minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in C minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "G in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 7,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Bb = ♭VII in C major (borrowed), VII in C minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "modulation_technique": "pivot_chord",
+        "style": [
+            "classical",
+            "romantic"
+        ],
+        "from_mode": "major",
+        "to_root": 0,
+        "to_mode": "minor",
+        "chords": [
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "I in C major (starting chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "major",
+                "degree_number": 4,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "F in C major (prepares pivot)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 7,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "pivot: Bb = ♭VII in C major (borrowed), VII in C minor (pivot chord)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 2,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "ii° in C minor (predominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "harmonic_minor",
+                "degree_number": 5,
+                "inversion": 0,
+                "seventh": true,
+                "comment": "V7 in C minor (dominant using harmonic minor)"
+            },
+            {
+                "kind": "diatonic",
+                "key_root": 0,
+                "key_mode": "minor",
+                "degree_number": 1,
+                "inversion": 0,
+                "seventh": false,
+                "comment": "i in C minor (arrival)"
+            }
+        ]
+    }
+]
